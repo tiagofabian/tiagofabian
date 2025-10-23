@@ -28,7 +28,7 @@
 - **Languages**:
     
     ![C#](https://i.ibb.co/Fb0phVZD/csharp.png)
-    ![PHP](https://i.ibb.co/KxbJSRdz/icons8-php-32.png)
+    ![PHP](https://i.ibb.co/GQFWfzSm/icon-php16x16.png)
     ![Typescript](https://i.ibb.co/xqcxfRMF/typescript.png)
 
 <br>   
