@@ -29,9 +29,9 @@
 
 - **Languages**:
     
-    ![C#](https://i.ibb.co/5gZW56rZ/csharp.png)
-    ![PHP](https://i.ibb.co/QF807zk7/php.png)
-    ![Typescript](https://i.ibb.co/tPvfGTs5/typescript.png)
+    ![C#](https://i.ibb.co/Fb0phVZD/csharp.png)
+    ![PHP](https://i.ibb.co/6RxxcHcJ/php.png)
+    ![Typescript](https://i.ibb.co/xqcxfRMF/typescript.png)
 
 <br>   
     
