@@ -43,7 +43,7 @@
 
 - **Cloud Hosting**:
 
-    ![Github Pages](https://i.ibb.co/4nnFQwLg/icons8-github-16.png)
+    ![Github Pages](https://i.ibb.co/4nDPhShT/icons8-github-32.png)
 
 <br>
 <br>
