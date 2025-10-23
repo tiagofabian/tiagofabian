@@ -30,7 +30,7 @@
 - **Languages**:
     
     ![C#](https://i.ibb.co/Fb0phVZD/csharp.png)
-    ![PHP](https://i.ibb.co/6RxxcHcJ/php.png)
+    ![PHP](https://i.ibb.co/Sp8fYvR/icons8-php-16.png)
     ![Typescript](https://i.ibb.co/xqcxfRMF/typescript.png)
 
 <br>   
