@@ -1,6 +1,6 @@
 <h1 align="center"><b>¡Hola! Bienvenido a mi perfil </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<img src="https://i.postimg.cc/TYSVXw0j/descarga.gif" width="1200">
+<img src="https://i.postimg.cc/XYRfQ0wr/banner.gif" width="1200">
 
 
 <br>
