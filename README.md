@@ -9,7 +9,7 @@
 
 <br>
 
-<img src="https://i.postimg.cc/pdyYNjbQ/coffee_19613_512.gif" alt="Imagen de perfil" width="200" align="right">
+<img src="https://i.postimg.cc/pdyYNjbQ/coffee_19613_512.gif" alt="Imagen de perfil" width="150" align="right">
 
 - Soy un desarrollador **Fullstack** con mucha experiencia
 - Actualmente estoy completando un curso de **Java**
@@ -65,15 +65,7 @@
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"><b> Contáctame</b>
 <br><br>
 <div align="center">
-  <a href="https://www.linkedin.com/in/tiago-fabian/">
-    <img src="https://img.icons8.com/color/48/linkedin.png" />
-  </a>
-  <a href="https://discord.com/users/tiag003">
-    <img src="https://img.icons8.com/color/48/discord-logo.png" />
-  </a>
-  <a href="mailto:tiago@outlook.com">
-    <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" />
-  </a>
+  <a href="https://www.linkedin.com/in/tiago-fabian/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a><a href="https://discord.com/users/tiag003"><img src="https://img.icons8.com/color/48/discord-logo.png"/></a><a href="mailto:tiago@outlook.com"><img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png"/></a>
 </div>
 <br>
 
