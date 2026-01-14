@@ -1,9 +1,11 @@
-<h1 align="center"><b>¡Hola! Bienvenido a mi perfil </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-<img src="https://i.postimg.cc/XYRfQ0wr/banner.gif" width="1200">
-
-
+<img src="https://i.postimg.cc/XYRfQ0wr/banner.gif" width="1200"> <!-- Banner Principal-->
 <br>
+
+<h2 align="center">Bienvenido a mi espacio</h2>
+<!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> -->
+
+
+<br><br><br>
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="25px"><b> Sobre mi</b>
 
@@ -35,7 +37,10 @@
 <sup><strong>Frontend: &nbsp;</strong></sup>
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
 
 <sup><strong>Backend: &nbsp;</strong></sup>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
@@ -47,6 +52,7 @@
 <sup><strong>DB: &nbsp;</strong></sup>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 
@@ -61,15 +67,15 @@
 ![Bruno](https://img.shields.io/badge/Bruno-000000?logo=bruno&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-<br>
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-372923?logo=dbeaver&logoColor=white)
+<br><br><br>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"><b> Contáctame</b>
-<br><br>
+<br>
 <div align="center">
   <a href="https://www.linkedin.com/in/tiago-fabian/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a><a href="https://discord.com/users/tiag003"><img src="https://img.icons8.com/color/48/discord-logo.png"/></a><a href="mailto:tiago@outlook.com"><img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png"/></a>
 </div>
-<br>
+<br><br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> <!--Separator-->
-<br>
-###### <p align="right">Última Edición: 13/01/2026</p>
+###### <div align="right">Última Edición: 13/01/2026 <br> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="165" height="1" /><!--Separator--> </div>
