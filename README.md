@@ -1,7 +1,9 @@
 <img src="https://i.postimg.cc/XYRfQ0wr/banner.gif" width="1200"> <!-- Banner Principal-->
 <br>
 
-<h2 align="center">Bienvenido a mi espacio</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1500&color=3D9EFC&width=300&lines=Think+Build+Improve">
+</div>
 <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> -->
 
 
