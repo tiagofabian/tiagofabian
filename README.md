@@ -16,7 +16,7 @@
 <img src="https://i.postimg.cc/pdyYNjbQ/coffee_19613_512.gif" alt="Imagen de perfil" width="150" align="right">
 
 - Soy un desarrollador **Fullstack** con mucha experiencia
-- Actualmente estoy completando un curso de **Java**
+- Recientemente he finalizado un curso de **Java/Springboot**
 - Mi sitio web personal: [Portafolio](https://portafolio-w8dj.vercel.app/)
 - Me encuentro en búsqueda de nuevas oportunidades laborales
 - Mi CV: [Enlace](https://drive.google.com/file/d/1IbaVVCJBo79hEfqB24MFIguL4ad7BJne/view?usp=sharing)
