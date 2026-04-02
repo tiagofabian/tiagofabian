@@ -19,7 +19,7 @@
 - Recientemente he finalizado un curso de **Java/Springboot**
 - Mi sitio web personal: [Portafolio](https://portafolio-w8dj.vercel.app/)
 - Me encuentro en búsqueda de nuevas oportunidades laborales
-- Mi CV: [Enlace](https://drive.google.com/file/d/1IbaVVCJBo79hEfqB24MFIguL4ad7BJne/view?usp=sharing)
+- Mi CV: [Enlace](https://drive.google.com/file/d/1orh3yrbYWGl_14o71ipOt0qLJ2uTEVjb/view?usp=sharing)
 
 <br><br>
 
