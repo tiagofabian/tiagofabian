@@ -81,4 +81,4 @@
 </div>
 <br><br><br>
 
-###### <div align="right">Última Edición: 13/01/2026 <br> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="165" height="1" /><!--Separator--> </div>
+###### <div align="right">Última Edición: 18/04/2026 <br> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="165" height="1" /><!--Separator--> </div>
