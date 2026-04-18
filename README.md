@@ -71,7 +71,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?logo=dbeaver&logoColor=white)
-![Atomic Design](https://img.shields.io/badge/Atomic%20Design-FF6F61?style=for-the-badge)
+![Atomic Design](https://img.shields.io/badge/Atomic%20Design-grey)
 <br><br><br>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"><b> Contáctame</b>
