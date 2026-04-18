@@ -85,7 +85,9 @@
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"><b> Contáctame</b>
 <br>
 <div align="center">
-  <a href="https://www.linkedin.com/in/tiago-fabian/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a><a href="https://discord.com/users/tiag003"><img src="https://img.icons8.com/color/48/discord-logo.png"/></a><a href="mailto:tiago@outlook.com"><img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png"/></a>
+  <a href="https://www.linkedin.com/in/tiago-fabian/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
+  <a href="https://discord.com/users/tiag003"><img src="https://img.icons8.com/color/48/discord-logo.png"/></a>
+  <a href="https://outlook.live.com/mail/0/deeplink/compose?to=tiagofabian195@outlook.com"><img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png"/></a>
 </div>
 <br><br><br>
 
