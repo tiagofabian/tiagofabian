@@ -76,6 +76,10 @@
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?logo=dbeaver&logoColor=white)
 ![Atomic Design](https://img.shields.io/badge/Atomic%20Design-FF6F61)
 ![Claude](https://img.shields.io/badge/Claude-D97706)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
 <br><br><br>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"><b> Contáctame</b>
