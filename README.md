@@ -57,6 +57,7 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-grey)
 
 <sup><strong>Herramientas: &nbsp;</strong></sup>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
