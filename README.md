@@ -80,6 +80,7 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
 <br><br><br>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"><b> Contáctame</b>
