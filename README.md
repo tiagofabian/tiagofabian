@@ -86,11 +86,11 @@
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"><b> Contáctame</b>
 <br>
 <div align="center">
-  <a href="https://www.linkedin.com/in/tiago-fabian/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
-  <a href="https://discord.com/users/413458429831675905"><img src="https://img.icons8.com/color/48/discord-logo.png"/></a>
-  <a href="https://outlook.live.com/mail/0/deeplink/compose?to=tiagofabian195@outlook.com"><img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png"/></a>
-  <a href="#"><img src="https://img.icons8.com/windows/50/ffffff/github.png" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/tiago-fabian/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
+  <a href="https://discord.com/users/413458429831675905" target="_blank"><img src="https://img.icons8.com/color/48/discord-logo.png"/></a>
+  <a href="https://outlook.live.com/mail/0/deeplink/compose?to=tiagofabian195@outlook.com" target="_blank"><img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png"/></a>
+  <a href="https://www.reddit.com/user/toon501" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/windows/50/FF4500/reddit.png" alt="Reddit"/></a>
 </div>
 <br><br><br>
 
-###### <div align="right">Última Edición: 18/04/2026 <br> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="165" height="1" /><!--Separator--> </div>
+###### <div align="right">Última Edición: 02/10/2026 <br> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="165" height="1" /><!--Separator--> </div>
