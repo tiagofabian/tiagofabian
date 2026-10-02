@@ -87,7 +87,7 @@
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/tiago-fabian/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
-  <a href="https://discord.com/users/tiag003"><img src="https://img.icons8.com/color/48/discord-logo.png"/></a>
+  <a href="https://discord.com/users/413458429831675905"><img src="https://img.icons8.com/color/48/discord-logo.png"/></a>
   <a href="https://outlook.live.com/mail/0/deeplink/compose?to=tiagofabian195@outlook.com"><img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png"/></a>
   <a href="#"><img src="https://img.icons8.com/windows/50/ffffff/github.png" alt="GitHub"/></a>
 </div>
