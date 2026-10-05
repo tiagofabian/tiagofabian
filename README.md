@@ -17,9 +17,9 @@
 
 - Soy un desarrollador **Fullstack** con mucha experiencia
 - Recientemente he finalizado un curso de **Java/Springboot**
-- Mi sitio web personal: [Portafolio](https://portafolio-w8dj.vercel.app/)
 - Me encuentro en búsqueda de nuevas oportunidades laborales
-- Mi CV: [Enlace](https://drive.google.com/file/d/1keqaxqrqcLXDs5ypwlZufQ9kexrCSBS1/view?usp=sharing)
+- Portafolio: [Enlace](https://portafolio-w8dj.vercel.app/)
+- CV: [Enlace](https://drive.google.com/file/d/1keqaxqrqcLXDs5ypwlZufQ9kexrCSBS1/view?usp=sharing)
 
 <br><br>
 
