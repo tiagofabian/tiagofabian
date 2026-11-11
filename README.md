@@ -19,7 +19,7 @@
 - Recientemente he finalizado un curso de **Java/Springboot**
 - Me encuentro en búsqueda de nuevas oportunidades laborales
 - Portafolio: [Enlace](https://portafolio-w8dj.vercel.app/)
-- CV: [Enlace](https://drive.google.com/file/d/1keqaxqrqcLXDs5ypwlZufQ9kexrCSBS1/view?usp=sharing)
+- CV: [Enlace](https://drive.google.com/file/d/1MCtlURarUFuKo4jje9mlGaj0rxxhSfRf/view?usp=sharing)
 
 <br><br>
 
@@ -95,4 +95,4 @@
 </div>
 <br><br><br>
 
-###### <div align="right">Última Edición: 20/10/2026 <br> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="165" height="1" /><!--Separator--> </div>
+###### <div align="right">Última Edición: 11/11/2026 <br> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="165" height="1" /><!--Separator--> </div>
